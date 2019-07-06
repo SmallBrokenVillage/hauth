@@ -1,0 +1,10 @@
+name: hauth
+version: 1.0
+main: com.seybox.hauth.hauth
+commands:
+  register:
+    description: "注册"
+    usage: /register 密码 重复密码
+  login:
+    description: "登录"
+    usage: /login 密码
